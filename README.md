@@ -10,19 +10,19 @@
 |---|---|
 | **Web Infrastructure** | Python, Flask, React.js, HTML5/CSS3 |
 | **Data Architecture** | NumPy, Pandas, Matplotlib, Scikit-Learn |
-| **Deep Learning & Tuning** | PyTorch, Hugging Face, Ollama, Unsloth |
+| **Deep Learning & Tuning** | PyTorch, Ollama, Unsloth |
 
 ---
 
 ## 🚀 Featured Portfolio Architectures
 
-### 📊 [predictive-analytics-dashboard-flask-react](https://github.com/YOUR_USERNAME/predictive-analytics-dashboard-flask-react)
+### 📊 [predictive-analytics-engine](https://github.com/Zaphenath-Official/predictive-analytics-engine)
 A comprehensive full-stack business intelligence platform. It ingests raw client CSV/Excel files, cleans anomalies via **Pandas**, processes localized statistical forecasting using **Scikit-Learn**, and maps real-time dynamic trend visual charts to a responsive **React** UI via a **Flask** API.
 
-### 📧 [autonomous-email-agent-ollama-python](https://github.com/YOUR_USERNAME/autonomous-email-agent-ollama-python)
+### 📧 [autonomous-email-agent](https://github.com/Zaphenath-Official/autonomous-email-agent)
 An offline workflow automation backend. Running completely locally to ensure strict corporate data privacy, it leverages **Ollama** to parse unstructured user intent, executes state-driven operational background reasoning loops, and queues context-aware draft responses.
 
-### 🏗️ [local-ml-model-builder-scikit-learn](https://github.com/YOUR_USERNAME/local-ml-model-builder-scikit-learn)
+### 🏗️ [local-model-builder](https://github.com/Zaphenath-Official/local-model-builder)
 A data sandbox interface designed for non-technical operators. Users can upload custom structured data inputs, trigger asynchronous machine learning training runs, monitor accuracy convergence parameters live, and instantly export compiled binary model serializers.
 
 ---
