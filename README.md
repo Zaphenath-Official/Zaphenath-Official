@@ -40,4 +40,3 @@ A data sandbox interface designed for non-technical operators. Users can upload 
 I design and build fractional AI automation systems, data parsing engines, and bespoke full-stack applications for international clients. 
 
 * 📩 **Email:** [zaphenathofficial@gmail.com]
-* 💼 **Upwork Profile:** [] 
